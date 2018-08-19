@@ -1,4 +1,4 @@
-package br.senai.sp.produtosapi.model;
+package sp.senai.br.produtosapi.model;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package br.senai.sp.produtosapi.repository;
+package sp.senai.br.produtosapi.repository;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -6,7 +6,7 @@ import java.util.List;
 
 import org.springframework.stereotype.Repository;
 
-import br.senai.sp.produtosapi.model.Produto;
+import sp.senai.br.produtosapi.model.Produto;
 
 @Repository
 public class ProdutoRepository {

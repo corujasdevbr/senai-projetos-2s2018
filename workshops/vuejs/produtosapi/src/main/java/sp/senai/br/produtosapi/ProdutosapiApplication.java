@@ -1,12 +1,12 @@
-package br.senai.sp.produtosapi;
+package sp.senai.br.produtosapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProdutosApiApplication {
+public class ProdutosapiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProdutosApiApplication.class, args);
+		SpringApplication.run(ProdutosapiApplication.class, args);
 	}
 }

@@ -1,4 +1,4 @@
-package br.senai.sp.produtosapi.controller;
+package sp.senai.br.produtosapi.controller;
 
 import java.util.List;
 
@@ -15,8 +15,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.senai.sp.produtosapi.model.Produto;
-import br.senai.sp.produtosapi.repository.ProdutoRepository;
+import sp.senai.br.produtosapi.model.Produto;
+import sp.senai.br.produtosapi.repository.ProdutoRepository;
 
 @RestController
 @RequestMapping("/produtos")
